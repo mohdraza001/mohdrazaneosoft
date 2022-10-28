@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mohdrazaneosoft
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Javascript&Php.
